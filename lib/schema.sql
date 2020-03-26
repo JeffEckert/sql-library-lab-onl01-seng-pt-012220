@@ -1,3 +1,5 @@
-CREATE TABLE series (id INTEGER PRIMARY KEY,
+CREATE TABLE series (
+id INTEGER PRIMARY KEY,
 title TEXT,
-sub-genre TEXT)
+sub-genre INTEGER,
+)
