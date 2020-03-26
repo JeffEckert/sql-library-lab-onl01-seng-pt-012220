@@ -19,7 +19,7 @@ title TEXT,
 year INTEGER,
 series_id INTEGER);
 
-CREATE TABLE charactors (
+CREATE TABLE characters (
 id INTEGER PRIMARY KEY,
 name TEXT,
 motto TEXT,
