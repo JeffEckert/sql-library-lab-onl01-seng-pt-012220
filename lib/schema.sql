@@ -18,3 +18,9 @@ id INTEGER PRIMARY KEY,
 title TEXT,
 year INTEGER,
 series_id INTEGER);
+
+CREATE TABLE charactors (
+id INTEGER PRIMARY KEY,
+name TEXT,
+motto TEXT,
+species TEXT);
